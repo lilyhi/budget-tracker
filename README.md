@@ -19,7 +19,7 @@ https://budget-buddyforever.herokuapp.com/
 
 
 ## Usage
-npm install 
+npm install </br>
 Run: npm start in the terminal to start the server
 
 
